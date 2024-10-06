@@ -1,0 +1,19 @@
+.test {
+  color: red;
+}
+
+p {
+  color: blue;
+}
+
+#test {
+  text-align: center;
+}
+
+#test2 {
+  color: green;
+}
+
+.text-test {
+  text-align: center;
+}
